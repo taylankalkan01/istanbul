@@ -13,6 +13,16 @@ const users = [
 		name: "Taylan",
 		age: 21,
 	},
+	{
+		id: 2,
+		name: "test1",
+		age: 21,
+	},
+	{
+		id: 3,
+		name: "test2",
+		age: 21,
+	},
 ];
 
 router.get("", (req, res) => {
