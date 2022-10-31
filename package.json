@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "@istanbul/app": "^0.0.33",
+    "@istanbul/http": "^0.0.24",
+    "nodemon": "^2.0.20"
+  },
+  "name": "istanbul",
+  "version": "1.0.0",
+  "description": "IstanbulJS example",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Taylan Kalkan",
+  "license": "ISC"
+}
